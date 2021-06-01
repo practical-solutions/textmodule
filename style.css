@@ -1,0 +1,47 @@
+/* 
+ * Gero Gothe <gero.gothe@medizindoku.de>
+ * 
+ * License: GPL2
+ * 
+ */
+
+
+/* div-class fr one group of text modules */
+.plugin_textmodule_box {
+    background:#e3e3e3;
+    margin-top:3px;
+    margin-right:2px;
+    padding:2px;
+    height:1.2em;
+    overflow:hidden;
+    width:10em;
+    display:inline-block;
+    cursor:pointer;
+}
+
+/* div class for one group when expanded */
+.plugin_textmodule_box_active {
+    background:#e3e3e3;
+    margin-top:3px;
+    padding:4px;
+    height:1.2em;
+    overflow:hidden;
+    height:auto;
+    display:block;
+    cursor:pointer;
+}
+
+
+.plugin_textmodule_link {
+    background: #d8fbff;
+    margin: 2px;
+    padding: 3px 5px;
+    border-radius: 7px;
+    display: inline-block;
+    
+}
+
+
+.plugin_textmodule_link:hover {
+    background: lightsteelblue;
+}

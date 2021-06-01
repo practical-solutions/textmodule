@@ -1,0 +1,6 @@
+base   textmodule
+author Gero Gothe
+date   2021-06-01
+name   Text Module
+desc   Adds a list of textmodules to the editor.
+url    https://www.dokuwiki.org/plugin:textmodule
